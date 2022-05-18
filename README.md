@@ -13,7 +13,7 @@
 - Generates random password and adds it to the DOM
 
 
-[View depolyed project here](https://ckaikai19.github.io/purple/)
+[View depolyed project here](https://ckaikai19.github.io/password/)
 
 ---
 
